@@ -118,4 +118,4 @@ GET /leads
 - Technical SEO routes are included:
   - `/robots.txt`
   - `/sitemap.xml`
-- Set `NEXT_PUBLIC_SITE_URL` to your deployed frontend URL for canonical, sitemap, and metadata consistency
+- Set `NEXT_PUBLIC_SITE_URL` to the frontend URL for canonical, and metadata consistency
