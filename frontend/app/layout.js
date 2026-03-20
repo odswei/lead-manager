@@ -35,6 +35,11 @@ export const metadata = {
     description:
       "Capture and manage leads with a fast dashboard built using Next.js and Express."
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico"
+  },
   robots: {
     index: true,
     follow: true
