@@ -49,6 +49,10 @@ A small full-stack lead management app built to satisfy the assessment requireme
 ### 1. Install dependencies
 
 ```bash
+cd backend
+npm install
+
+cd frontend
 npm install
 ```
 
